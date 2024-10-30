@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bai1</string>
+
+    <!-- Mảng các quốc gia -->
+    <string-array name="countries">
+        <item>VietNam</item>
+        <item>China</item>
+        <item>Europe</item>
+        <item>Japan</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+    </string-array>
+</resources>
